@@ -6,6 +6,8 @@
   padding: 6rem;
   min-height: 100vh;
   background-color:#75E0B0;
+  background: linear-gradient(to right , blue 25%, #75E0B0 70%, blue 100%);
   font-family: Georgia, 'Times New Roman', Times, serif;
+  
 }
 

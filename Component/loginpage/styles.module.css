@@ -8,15 +8,25 @@
     align-items: center;
     justify-content: center;
     background-color: #232323;
+   
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 60px 70px 40px 140px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.title {
+.icon{
+  
 
+   cursor: pointer;
+    margin-left: 500px;
+    color: azure;
+   
+}
+
+.title {
+  
     margin: 12px 0;
     align-items: center;
     justify-content: center;
@@ -60,6 +70,7 @@
     border: 3px solid black;
     border-radius: 20px;
     background-color:  #75E0B0;
+    background: linear-gradient(to right , blue 25%, #75E0B0 70%, blue 100%);
     cursor: pointer;
 }
 .createAccount {

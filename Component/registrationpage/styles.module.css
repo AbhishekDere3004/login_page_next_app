@@ -8,8 +8,9 @@
     align-items: center;
     justify-content: center;
     background-color: #232323;
+    
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 60px 70px 40px 140px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -61,6 +62,7 @@
     border-radius: 20px;
     background-color:  #75E0B0;
     cursor: pointer;
+    background: linear-gradient(to right , blue 25%, #75E0B0 70%, blue 100%);
 }
 .createAccount {
     margin-top: 10px;
@@ -83,7 +85,7 @@
     }
 
     .button{
-        width: 100%;
+        width: 90%;
         cursor: pointer;
     }
     .createAccount{
